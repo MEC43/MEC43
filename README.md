@@ -2,7 +2,6 @@
 
 ![커버](https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=HI%20THERE&section=header&reversal=false&textBg=false&fontAlign=50&desc=Welcome%20my%20world&descAlignY=70&animation=fadeIn)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMEC43&count_bg=%23FF8FCA&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 👋 안녕하세요 `Frontend-Engineer`로 성장하고 있는 MEC입니다!
 - 👨‍💻 프론트엔드 엔지니어로 성장 중인 열정 넘치는 개발자💻
@@ -52,3 +51,6 @@
 |무난한 사이드 프로젝트<br>(여행, 맛집, 쇼핑몰, 블로그 ...)|내용|내용|내용|
 -->
 <!--3~4개 정도 넣어놓기-->
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMEC43&count_bg=%23FF8FCA&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
